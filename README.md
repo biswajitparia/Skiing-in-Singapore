@@ -1,6 +1,5 @@
 # Skiing-in-Singapore
-Skiing in Singapore (Coding for Skiing Game)
-Quize link:http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diversion/ 
+Quiz link:http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diversion/ 
 
 1. Pre-requisite: Setup mountain peaks matrix (sample below) in a file and pass that file path location into Skiing.java file.
 4 4
