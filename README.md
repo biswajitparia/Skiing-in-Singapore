@@ -35,6 +35,7 @@ Quiz link:http://geeks.redmart.com/2015/01/07/skiing-in-singapore-a-coding-diver
   
   **** TIME TAKEN==>0 secs
   
+  
 
   Result for 1000 by 1000 matrix:
   
